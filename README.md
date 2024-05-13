@@ -1,3 +1,3 @@
 # 1st-Project
-this is my first project <br>
+This is my Git repository  <br>
 2311G1 Students
